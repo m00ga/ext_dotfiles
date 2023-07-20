@@ -1,0 +1,25 @@
+/*
+__pycache__/
+!.gitignore
+
+# .config stuff
+.config/*
+
+!.config/alacritty
+!.config/mako
+!.config/nvim
+!.config/qutebrowser
+!.config/sway
+!.config/swayidle
+!.config/swaylock
+!.config/waybar
+!.config/wlogout
+!.config/wofi
+!.config/ranger
+!.config/mpd/mpd.conf
+!.config/mpv
+
+!.wf-status.sh
+!.tmux-control.sh
+!.tmux.conf
+!.zshrc
